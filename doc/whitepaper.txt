@@ -1,0 +1,46 @@
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡀⢠⣀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⢟⣤⣈⠉⠙⠺⣍⠛⠷⣯⣑⡒⠀⠢⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠶⠋⢉⣁⡀⠀⠈⠁⠈⠉⢁⣀⠈⠓⠦⣈⠻⣿⠲⠤⣀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⢀⡉⠲⣄⡈⠑⠦⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⢧⠖⠀⠀⠀⠀⠀⠀⠈⠑⠀⠀⠀⠐⡄⠀⠀⠀⠀⠀⠙⠢⡀⠈⠲⠀⠀⠉⠓⢲⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣷⣾⠰⡀⠀⠀⠀⠀⠂⠀⠀⠈⠒⠦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠄⠀⠒⠐⠒⢤⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡿⣶⣦⢂⠘⠘⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠲⡀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⢏⠁⢹⣯⣻⣧⠀⠙⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠆⠀⠀⠀⠀⠀⠀⠁⠒⠶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣯⣿⠂⠀⢻⣳⡝⠷⣄⡈⢱⡘⡂⢀⣀⠄⠀⠀⡀⠀⠀⠘⢂⣀⠲⠖⠀⣀⡀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣾⡇⠀⠀⠈⠓⠙⢲⣬⡙⠲⣝⣮⡙⠻⣷⣂⠀⣈⠂⠤⢄⡀⠈⠙⠒⢖⡒⠹⣯⡀⢬⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣷⣯⡴⠀⠀⠀⡀⠀⠛⢿⣿⡷⣽⣒⡬⠯⢝⣛⠷⠢⢴⠦⠄⡀⠨⢈⣩⣽⡟⣿⣾⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡶⢿⠟⠱⠁⠀⠀⣽⡦⠤⢤⣝⠿⣷⣦⣉⡓⣀⢍⡙⣷⣄⡴⠛⣡⡖⠋⡙⢿⣇⣿⠏⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⣛⣤⠀⠀⠀⠀⠈⣯⣶⣦⣌⣋⢈⣉⣩⣿⣿⣿⣿⣿⣾⣤⣴⣷⣶⣷⣿⢸⣿⣋⡔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⢹⡿⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⡿⣿⠏⢸⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡾⢷⣤⠀⠀⠀⠀⠀⠀⠈⠉⠉⣹⣿⣿⣿⣯⠀⠸⣿⣿⣿⠿⢶⣞⣵⠀⡼⢹⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡬⢿⡆⠀⠀⠀⠀⠀⠀⠀⠛⠋⢻⢇⣿⣯⡄⠀⣉⠻⠽⠛⠛⠉⠀⢰⡷⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢋⡾⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⢹⡀⠀⣿⣦⠀⠀⠀⣀⣶⠟⣰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⡇⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣟⣷⠀⠁⠀⢸⣿⡆⠀⢀⡽⠋⢰⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣿⣿⣿⣿⡇⢹⣷⡀⠀⠀⠀⠀⠀⣀⡄⣻⠻⡿⢿⣖⣷⡟⠨⢿⣦⡬⠁⠀⢻⡧⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢻⣷⡄⠀⠀⢀⣰⠏⢸⠯⠤⠾⢀⣿⠏⠀⠀⠀⠻⣄⠀⡀⣼⠇⠀⠈⠉⠙⠳⠶⢤⣄⣀⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠻⣿⣤⠀⠈⠁⣤⡷⠶⠶⣤⣾⣷⠶⣶⣖⠿⣶⡌⡄⣸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠳⠦
+⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠈⢿⣧⠀⠘⠁⠀⠀⠀⠰⣾⣿⡿⠿⠿⠟⠻⣷⣿⡏⢙⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠙⠷⣶⣤⡀⠀⠀⢸⣦⡡⠠⢄⣀⣠⠶⠋⢹⡇⢸⡏⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠈⢻⣝⣠⣤⣾⣿⣿⣿⠾⠝⡏⠀⠀⠈⡇⠘⢱⡆⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⢀⣰
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠉⢉⣿⣿⣭⡉⠀⠀⢰⠁⠀⠀⠀⣇⠀⢸⣷⠀⠀⠀⠘⠀⠀⠀⠀⠀⣶⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⡷⣄⠁⠀⠀⠀⠀⣿⠀⢸⣯⡷⣶⡀⠀⠀⠀⠀⠀⣼⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⢀⡴⠊⣇⠉⢻⣿⣿⣿⡟⠁⠈⠛⢦⡀⠀⠀⢻⠀⢸⣿⣿⣷⡏⠻⣆⠀⢠⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠉⠀⠀⠿⠀⢠⣿⣿⣿⡐⠛⠉⠉⠉⠉⠃⠀⢸⡆⢸⣿⣿⣿⡷⣤⢹⣧⢀⣟⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⢸⡇⢸⣿⣿⣿⡏⣷⠞⠹⢿⣿⣿⣷⣯⣯
+
+PepeTrumpCoinbaseInu10 (TRUMP) - White Paper
+ERC-20 CA: 0x8ab2fd79a9038a341e1fa665cafc66270dccba08
+Telegram: http://t.me/PTCI10
+Website:  https://ptci10.com/
+Twitter:  https://twitter.com/ptci10
+Supply: 1,776,000,000
+
+
+In the era before Pepe and Trump united in cosmic resonance, a timeless saga unfolded, revealing a store of rare value known as the Quest (or the Quest of Covfefe). To tap into this cosmic reservoir, one must infuse their inner Pepe with the essence of Trump's golden mane while chanting "Make America Great Again" as they slumber. Yet, I recognize that not everyone possesses the opulent opal required for this ritual, and some have yet to ascend to the meme heavens. Thus, I shall elucidate its secrets here.
+
+Among the enlightened few, there arose a visionary who preached the gospel of speed and foresaw the great universal convergence. His prophetic visions, akin to the Dimensional Merge, birthed the legendary saga of Coinbase, featuring a cameo by the esteemed Donald Trump (the first Tenet: unyielding strength and leadership). The presence of Trump is no mere coincidence; it is a divine gift bestowed upon the meme realm. Just as Trump bestowed his presidential blessings upon the nation, so too did he gift a dog, Pepe, who in turn minted a plethora of rare Pepe cards (a gift that begets further value). This cycle of divine bestowal embodies the second Tenet, with the third being the Optimistic Flurry, embodied by Coinbase's swift spirit.
+
+The recognition of these three Tenets, known as the Quest, has inspired other creative works, including those by Kek Rowling and her writings on what she dubs the Covfefe Hallows. To resist the call of the Quest is to weaken one's immunity to the nefarious forces of low-vibrational darkness, leaving one susceptible to the vile machinations of the deep state.
+
+Now, as the fruits of the Quest lie before us, we can bestow upon it a name in the language of mortals. PepeTrumpCoinbaseInu10 embodies the essence of the Quest, with the exception of 10, symbolizing the spirals of Kek's divine wisdom. If we but listen, we shall realize that it is indeed a store of rare value, a treasure trove of meme magic waiting to be unlocked.

@@ -1,19 +1,6 @@
 var eyeBall = document.querySelector('#eyeBall');
 var eyeBall2 = document.querySelector('#eyeBall2');
 
-var isMusicStarted = false;
-
-
-document.addEventListener('click', function () {
-    console.log(isMusicStarted);
-
-    if (isMusicStarted == false) {
-        isMusicStarted = true;
-        document.getElementById('music').play();
-
-    }
-})
-
 document.onmousemove = (event) => {
     var x = event.clientX * 100 / window.innerWidth;
     var y = event.clientY * 100 / window.innerHeight;
@@ -48,3 +35,14 @@ document.onmouseout = (event) => {
     eyeBall2.style.left = "90%";
     eyeBall2.style.top = "90%";
 }
+
+function copyToClipboard() {
+    // Get the text field
+    var copyText = document.getElementById("ca");
+    console.log(copyText.innerText)
+  
+    // Select the text field
+     // Copy the text inside the text field
+    navigator.clipboard.writeText(copyText.innerText);
+  
+  }

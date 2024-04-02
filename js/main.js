@@ -1,48 +1,68 @@
-var eyeBall = document.querySelector('#eyeBall');
-var eyeBall2 = document.querySelector('#eyeBall2');
 
-document.onmousemove = (event) => {
-    var x = event.clientX * 100 / window.innerWidth;
-    var y = event.clientY * 100 / window.innerHeight;
-
-    if (x > 55) {
-        x = 55;
-    }
-
-    if (y > 55) {
-        y = 55;
-    }
-
-    x = x + "%";
-    y = y + "%";
-
-
-    eyeBall.style.transition = "0s";
-    eyeBall.style.left = x;
-    eyeBall.style.top = y;
-
-    eyeBall2.style.transition = "0s";
-    eyeBall2.style.left = x;
-    eyeBall2.style.top = y;
-}
-
-document.onmouseout = (event) => {
-    eyeBall.style.transition = "0.7s";
-    eyeBall.style.left = "90%";
-    eyeBall.style.top = "90%";
-
-    eyeBall2.style.transition = "0.7s";
-    eyeBall2.style.left = "90%";
-    eyeBall2.style.top = "90%";
-}
 
 function copyToClipboard() {
-    // Get the text field
-    var copyText = document.getElementById("ca");
+  // Get the text field
+    var copyText = document.getElementById("my_ca");
     console.log(copyText.innerText)
   
-    // Select the text field
-     // Copy the text inside the text field
-    navigator.clipboard.writeText(copyText.innerText);
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+     navigator.clipboard.writeText(copyText.value);
+
+     var tooltip = document.getElementById("myTooltip")
+
+     tooltip.innerHTML = "Copied: " + copyText.value;
   
   }
+
+  function outFunc() {
+    var tooltip = document.getElementById("myTooltip");
+    tooltip.innerHTML = "Click to Copy CA";
+  }
+  
+  function myHam() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+
+ document.addEventListener('mousemove',(e) => {
+    console.log(e)
+    const mouseX = e.clientX; 
+    const mouseY = e.clientY; 
+    const anchor = document.getElementById('anchor')
+    const rekt = anchor.getBoundingClientRect();
+    const anchorX = rekt.left + rekt.width /2 ; 
+    const anchorY = rekt.top + rekt.height / 2; 
+
+    const angleDeg  = angle(mouseX,mouseY, anchorX, anchorY); 
+    console.log(angleDeg)
+    const eyesL = document.querySelectorAll('.eyeL')
+    const eyesR = document.querySelectorAll('.eyeR')
+
+
+    eyesL.forEach(eye=>{
+        eye.style.transform = `rotate(${90 + angleDeg}deg)` ;
+
+    })
+    eyesR.forEach(eye=>{
+        eye.style.transform = `rotate(${90 + angleDeg}deg)` ;
+    })
+
+ })
+
+ function angle(cx, cy, ex, ey) {
+    const dy = ey - cy ; 
+    const dx = ex -cx ; 
+    const rad =  Math.atan2(dy, dx) ; 
+    const deg = rad * 180 / Math.PI ; 
+    return deg ; 
+
+
+ }

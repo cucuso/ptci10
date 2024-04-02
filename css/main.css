@@ -1,4 +1,86 @@
+.logo {
+    margin-left: 35%; 
+
+}
+
+.nav-banner{
+    color:white; 
+    margin: 0%; 
+    margin-bottom: 0% ; 
+    padding-top: 0% ; 
+    padding: 1.3rem;  
+    background-color: #0052ff !important; 
+    width: 100%; 
+    height: 100%; 
+}
+
+.nav-menu{
+    display: block; 
+}
+.span-menu{
+    padding: 0px 50px 0 0 ;
+    display: inline-flex; 
+    font-weight: bold;
+    color: black ; 
+    
+
+}
+.hamburger-menu {
+    position: absolute; 
+    margin: 0 0 0px -20px;
+    display: none;    
+    
+}
+
+.ham {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 400ms;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .hamRotate.active {
+    transform: rotate(45deg);
+  }
+  .hamRotate180.active {
+    transform: rotate(180deg);
+  }
+  .line {
+    fill:none;
+    transition: stroke-dasharray 400ms, stroke-dashoffset 400ms;
+    stroke:#0052ff;
+    stroke-width:6;
+    stroke-linecap:round;
+  }
+  .ham1 .top {
+    stroke-dasharray: 40 139;
+  }
+  .ham1 .bottom {
+    stroke-dasharray: 40 180;
+  }
+  .ham1.active .top {
+    stroke-dashoffset: -98px;
+  }
+  .ham1.active .bottom {
+    stroke-dashoffset: -138px;
+  }
+.ham-links{
+    display:none; 
+    background-color:#a6cafd; 
+    a{
+        padding: 5px 5px;
+        text-decoration: none;
+        color: #0052ff; 
+        font-weight: bold;
+        font-size:medium; 
+    }
+}
+
+
 body {
+
     font-family: "Public Sans", sans-serif;
     background: white;
     text-align: center;
@@ -7,8 +89,7 @@ body {
 
 .grey-bg{
     background: rgb(245, 248, 255);
-    padding: 200px;
-    padding: 200px;
+
 }
 
 .hero-section {
@@ -18,24 +99,30 @@ body {
     overflow: hidden;
 }
 
+.col {
+    padding-top: 50px; 
+    text-align: center; 
+    padding-bottom: 100px ; 
+}
+
 .hero-text-main {
-    margin-top:100px;
-    margin-left: 130px;
+    padding: 4%; 
     font-weight: 700;
     color: white;
-    font-size: 2.5em;
 }
 
 .hero-subtext {
-    margin-left: 130px;
+    margin-left: 10%; 
+    padding: 3%; 
+    white-space: nowrap;
     font-weight: 700;
     color: white;
-    font-size: .9em;
 } 
 
 .btn-ca {
-    margin-left: 140px;
+    margin-left: 80%; 
     height: 56px;
+    width: 300px; 
     border-radius: 56px;
     background: rgb(0, 82, 255);
     color:white;
@@ -44,9 +131,12 @@ body {
 }
 
 .btn-ca:hover {
+
     background: rgb(2, 66, 203);
     opacity: 0.92;
 }
+
+
 
 .fancy {
     position: relative;
@@ -65,89 +155,32 @@ body {
       background-position: 0em;
     }}
 
-#eye {
-    position: absolute;
-    top: 22%;
-    left: 47%;
-    transform: translate(-60%, -60%);
-    height: 70px;
-    width: 70px;
-    background: transparent;
-    border-radius: 50%;
-    overflow: hidden;
-}
-
-#eyeBall {
-    position: absolute;
-    top: 22%;
-    left: 47%;
-    height: 95px;
-    width: 95px;
-    transform: translate(-50%, -50%);
-    background: url('../img/left-eye.webp');
-    border-radius: 50%;
-    transition: 0;
-}
-
-#eye2 {
-    position: absolute;
-    top: 29%;
-    left: 70%;
-    transform: translate(-60%, -60%);
-    height: 50px;
-    width: 50px;
-    background: transparent;
-    border-radius: 50%;
-    overflow: hidden;
-}
-
-#eyeBall2 {
-    position: absolute;
-    top: 29%;
-    left: 70%;
-    height: 95px;
-    width: 95px;
-    transform: translate(-50%, -50%);
-    background: url('../img/right-eye.webp');
-    border-radius: 50%;
-    transition: 0;
-}
-
-@media screen and (min-width: 1300px) {
-
-    #eye2 {
-        top: 29%;
-        left: 69%;
-    }
-
-    #eyeBall2 {
-        top: 29%;
-        left: 69%;
-    }
-}
-
-@media screen and (min-width: 1400px) {
-
-    #eye2 {
-        top: 29%;
-        left: 67%;
-    }
-
-    #eyeBall2 {
-        top: 29%;
-        left: 67%;
-    }
-}
 
 .im {
-    position: relative;
-    left: 20px;
-    top: 60px;
+    
+        position: relative;
+        left: 10%;
+        top: 10%;
+
+    }
+
+main {
+    display: grid; 
+    place-items: center; 
+    min-height: 100vh; 
+    position: relative ; 
+}
+    
+#eyes, #eyes img {
+    position:absolute ; 
 }
 
-
-
-
+.eyeL{
+    top:-225px; bottom:0; left: 50px;
+}
+.eyeR{
+    top:-160px; bottom:0; left: 300px; 
+}
 
 .section {
     margin-top: 300px;
@@ -165,13 +198,6 @@ body {
 .youtube-video {
     aspect-ratio: 16 / 9;
     width: 90%;
-}
-
-.logo {
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
-    color: rgb(0, 82, 255);
 }
 
 
@@ -196,3 +222,31 @@ body {
     left: 0;
     border: 0;
 }
+
+@media (max-width: 768px) {
+    #eyes{
+        position: absolute; 
+        img{
+            height:15px; 
+            width: 15px ; 
+        }
+    }
+    .eyeL{
+        top:-85px; bottom:0; left: 15px;
+    }
+    .eyeR{
+        top:-50px; bottom:0; left: 135px; 
+    }
+    .btn-ca{
+        margin-left:0; 
+    }
+    .hero-subtext {
+        margin-left:0; 
+    }
+    .span-menu {
+      display: none;
+    }
+    .hamburger-menu {
+      display: block;
+    }
+  }

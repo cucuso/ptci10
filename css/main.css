@@ -5,40 +5,40 @@ body {
     color: black;
 }
 
-.grey-bg{
+.grey-bg {
     background: rgb(245, 248, 255);
-    padding: 200px;
-    padding: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .hero-section {
+    padding-top: 10%;
     background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
-     height: 100vh;
-    /*width: 100%; */
+    height: 100vh;
     overflow: hidden;
 }
 
 .hero-text-main {
-    margin-top:100px;
-    margin-left: 130px;
+    padding: 4%;
     font-weight: 700;
     color: white;
     font-size: 2.5em;
 }
 
 .hero-subtext {
-    margin-left: 130px;
+    margin-left: 10%;
+    padding: 3%;
+    white-space: nowrap;
     font-weight: 700;
     color: white;
-    font-size: .9em;
-} 
+}
 
 .btn-ca {
-    margin-left: 140px;
     height: 56px;
+    width: 300px;
     border-radius: 56px;
     background: rgb(0, 82, 255);
-    color:white;
+    color: white;
     border: 0px;
     font-size: .7em;
 }
@@ -51,19 +51,21 @@ body {
 .fancy {
     position: relative;
     white-space: nowrap;
+
     &:after {
-      --deco-height: 0.3125em;
-      content: "";
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: calc(var(--deco-height) * -0.625);
-      height: var(--deco-height);
-      background-image: url("data:image/svg+xml,%3Csvg width='100' height='64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23a)'%3E%3Cpath d='M-17 30.5C-1 22 72-4 54 13 37.9 28.2-2.5 57.5 16 55.5s72-29 104-40' stroke='%230052ff' stroke-width='10'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='a'%3E%3Cpath fill='%23fff' d='M0 0h100v64H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");
-      background-size: auto 100%;
-      background-repeat: round;
-      background-position: 0em;
-    }}
+        --deco-height: 0.3125em;
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: calc(var(--deco-height) * -0.625);
+        height: var(--deco-height);
+        background-image: url("data:image/svg+xml,%3Csvg width='100' height='64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23a)'%3E%3Cpath d='M-17 30.5C-1 22 72-4 54 13 37.9 28.2-2.5 57.5 16 55.5s72-29 104-40' stroke='%230052ff' stroke-width='10'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='a'%3E%3Cpath fill='%23fff' d='M0 0h100v64H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");
+        background-size: auto 100%;
+        background-repeat: round;
+        background-position: 0em;
+    }
+}
 
 #eye {
     position: absolute;
@@ -92,7 +94,7 @@ body {
 #eye2 {
     position: absolute;
     top: 29%;
-    left: 70%;
+    left: 68%;
     transform: translate(-60%, -60%);
     height: 50px;
     width: 50px;
@@ -104,7 +106,7 @@ body {
 #eyeBall2 {
     position: absolute;
     top: 29%;
-    left: 70%;
+    left: 68%;
     height: 95px;
     width: 95px;
     transform: translate(-50%, -50%);
@@ -113,41 +115,107 @@ body {
     transition: 0;
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (max-width: 600px) {
+    .hero-section {
+        padding-top: 50%;
+    }
+
+    #eye {
+        height: 30px;
+        width: 30px;
+
+    }
+
+    #eyeBall {
+        height: 25px;
+        width: 25px;
+    }
 
     #eye2 {
+        height: 30px;
+        width: 30px;
+
+
+    }
+
+    #eyeBall2 {
+        height: 25px;
+        width: 25px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    #eye {
+        height: 60px;
+        width: 60px;
+
+    }
+
+    #eyeBall {
+        height: 60px;
+        width: 60px;
+    }
+
+    #eye2 {
+        height: 55px;
+        width: 55px;
         top: 29%;
-        left: 69%;
+        left: 80%;
+
     }
 
     #eyeBall2 {
         top: 29%;
-        left: 69%;
+        left: 95%;
+        height: 20px;
+        width: 20px;
+    }
+
+    .hero-text-main {
+        font-size: 1.5em;
     }
 }
 
-@media screen and (min-width: 1400px) {
+
+@media screen and (max-width: 992px) {
+
+    #eye2 {
+        top: 19%;
+        left: 95%;
+        height: 80px;
+        width: 80px;
+    }
+
+    #eyeBall2 {
+        height: 70px;
+        width: 70px;
+        top: 19%;
+        left: 95%;
+    }
+}
+
+@media screen and (max-width: 1300px) {
 
     #eye2 {
         top: 29%;
-        left: 67%;
+        left: 72%;
     }
 
     #eyeBall2 {
         top: 29%;
-        left: 67%;
+        left: 72%;
     }
 }
+
 
 .im {
     position: relative;
     left: 20px;
     top: 60px;
 }
-
-
-
-
 
 .section {
     margin-top: 300px;

@@ -20,26 +20,67 @@
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
     <link href="css/main.css" rel="stylesheet">
+    <link href="css/circles.css" rel="stylesheet">
+    <link href="css/navbar.css" rel="stylesheet">
     <title>PepeTrumpCoinbaseInu10 BASE - TICKER $TRUMP</title>
 
 </head>
 
 <body>
-    <nav class="navbar navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <div class="logo">
-                    <span>PepeTrumpCoinbaseInu10</span>
+                    <span>PTCI10</span>
                 </div>
             </a>
+            <button class="navbar-toggler collapsed d-flex d-lg-none flex-column justify-content-around" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="toggler-icon top-bar"></span>
+                <span class="toggler-icon middle-bar"></span>
+                <span class="toggler-icon bottom-bar"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#tokenomics">Tokenomics</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#chart">Chart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="doc/whitepaper.txt">Whitepaper</a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </nav>
 
     <div class="container-fluid">
         <div class="row hero-section">
+            <div class="area">
+                <ul class="circles">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+
             <div class="col-lg-3">
-                <p class="hero-text-main"><span class="fancy">THE SHIT COIN OF SHIT COINS</span></p>
-                <p><span class="hero-subtext">a shit coin like never before seen on BASE..</span></p>
+                <p class="hero-text-main"><span>THE SHIT COIN OF SHIT COINS</span></p>
+                <!-- <p><span class="hero-subtext">a shit coin like never before seen on BASE..</span></p> -->
                 <br>
                 <!-- needs to be https for it to work -->
                 <!-- <button class="btn-ca" onclick="copyToClipboard()"><svg xmlns="http://www.w3.org/2000/svg" width="16"
@@ -48,13 +89,13 @@
                             d="M4 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM2 5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-1h1v1a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h1v1z" />
                     </svg>CA:<span id="ca">0x8ab2fd79a9038a341e1fa665cafc66270dccba08 </span></button> -->
 
-                    <span class="hero-subtext">CA:0x8ab2fd79a9038a341e1fa665cafc66270dccba08 </span>
+                <span class="hero-subtext">CA:0x8ab2fd79a9038a341e1fa665cafc66270dccba08 </span>
             </div>
 
             <div class="col-lg-9">
 
                 <div class="im">
-                    <img src="img/vctr/prumpt.png" class="img-fluid">
+                    <img src="img/vctr/prumpt2.png" class="img-fluid">
                     <div id="eye">
                         <div id="eyeBall"></div>
                     </div>
@@ -63,9 +104,10 @@
                     </div>
                 </div>
             </div>
+
         </div>
 
-        <div class="section">
+        <div class="section" id="about">
             <div class="row">
                 <div class="offset-md-3 col-md-6 offset-md-3">
                     <h1>About PepeTrumpCoinbaseInu10</h1>
@@ -84,7 +126,7 @@
             </div>
         </div>
 
-        <div class="section grey-bg">
+        <div class="section grey-bg" id="tokenomics">
             <div class="row">
                 <div class="col">
                     <h1>Tokenomics</h1>
@@ -108,9 +150,10 @@
                     <p><strong>Burn Events</strong>
                         <br>
                         We burned 63.2697% of supply. Token top holder is: <br>
-                        <a href="https://basescan.org/token/0x8ab2fd79a9038a341e1fa665cafc66270dccba08#balances">0x000000000000000000000000000000000000dead</a>
-                        
-                        
+                        <a
+                            href="https://basescan.org/token/0x8ab2fd79a9038a341e1fa665cafc66270dccba08#balances">0x000000000000000000000000000000000000dead</a>
+
+
                     </p>
 
                 </div>
@@ -118,7 +161,7 @@
         </div>
 
 
-        <div class="section">
+        <div class="section" id="chart">
             <div class="row">
                 <div class="offset-md-2 col-md-8 offset-md-2">
                     <h1>Chart</h1>
@@ -132,7 +175,7 @@
         </div>
 
 
-        <div class="section">
+        <div class="section grey-bg">
             <div class="row">
                 <div class="col">
                     <iframe class="youtube-video" src="https://www.youtube.com/embed/ZybajSi5qvQ?si=rNM8Ob01x0SDL1zh"

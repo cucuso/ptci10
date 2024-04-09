@@ -130,8 +130,6 @@ body {
 }
 
 
-
-
 @media screen and (max-width: 768px) {
     #eye {
         height: 60px;
@@ -142,6 +140,7 @@ body {
     #eyeBall {
         height: 60px;
         width: 60px;
+        display: none;
     }
 
     #eye2 {
@@ -154,6 +153,7 @@ body {
     #eyeBall2 {
         top: 29%;
         left: 95%;
+        display: none;
     }
 
     .hero-text-main {
@@ -174,20 +174,6 @@ body {
         width: 70px;
     }
 }
-
-/* @media screen and (max-width: 1300px) {
-
-    #eye2 {
-        top: 29%;
-        left: 72%;
-    }
-
-    #eyeBall2 {
-        top: 29%;
-        left: 72%;
-    }
-} */
-
 
 .im {
     position: relative;

@@ -15,9 +15,6 @@ function reportWindowSize() {
     }
 }
 
-
-
-
 eyeBall.style.display = '';
 eyeBall2.style.display = '';
 
@@ -35,9 +32,6 @@ document.onmousemove = (event) => {
 
     x = x + "%";
     y = y + "%";
-
-    console.log(x);
-    console.log(y);
 
     eyeBall.style.transition = "0s";
     eyeBall.style.left = x;

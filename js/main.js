@@ -50,3 +50,13 @@ function copyToClipboard() {
     // Copy the text inside the text field
     navigator.clipboard.writeText(copyText.innerText);
 }
+
+
+// memes
+for (var i = 1, j = 21; i < j; i++) {
+    var image = new Image; //This is a placeholder
+    image.src = 'img/memes/' + i + '.jpg';
+    image.setAttribute("class","img-fluid meme");
+    image.setAttribute("data-aos","fade-in");
+    document.getElementById( "memes" ).appendChild(image);
+}

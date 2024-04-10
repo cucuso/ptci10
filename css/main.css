@@ -99,10 +99,17 @@ body {
     transition: 0;
 }
 
+.meme {
+    max-width: 600px;
+}
+
 @media screen and (max-width: 600px) {
+    .meme {
+        max-width: 200px;
+    }
 
     #hero {
-        content:url("../img/hero_with_eyes.png");  
+        content: url("../img/hero_with_eyes.png");
     }
 
     .hero-section {
@@ -237,31 +244,26 @@ body {
 
 .rocket {
     transform: translatey(0px);
-	animation: float 2.2s ease-in-out infinite;
+    animation: float 2.2s ease-in-out infinite;
     max-width: 500px;
-    margin-top:50px;
-    overflow:hidden;
-  }
-
-
-@keyframes float {
-	0% {
-		
-		transform: translatey(0px);
-	}
-	50% {
-		
-		transform: translatey(-15px);
-	}
-	100% {
-		
-		transform: translatey(0px);
-	}
+    margin-top: 50px;
+    overflow: hidden;
 }
 
 
-.meme {
-    /* float: left; */
-    /* background-size: cover; */
-    max-width: 600px;
+@keyframes float {
+    0% {
+
+        transform: translatey(0px);
+    }
+
+    50% {
+
+        transform: translatey(-15px);
+    }
+
+    100% {
+
+        transform: translatey(0px);
+    }
 }
